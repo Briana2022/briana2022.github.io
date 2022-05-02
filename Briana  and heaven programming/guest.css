@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 0, 93);
+    color:rgb(70, 43, 226)
+}
+
+section {
+background-color: rgb(255, 240, 246);
+
+display: inline-block;
+
+box-sizing: content-box;
+width: 100px;
+height: 300px;
+padding: 99px;
+border: 20px solid black;
+margin: 90px;
+}
+
+#bob {
+
+
+}
