@@ -1,0 +1,16 @@
+body{
+background-color: blueviolet;
+color: black;
+text-align: center;
+
+}
+img{
+    width:400 ;
+    height: 300;
+    margin: 30;
+
+}
+
+section{
+    display:inline-block
+}
