@@ -1,0 +1,9 @@
+body{
+    background-color: deepskyblue;
+    color: white;
+}
+
+section{
+    box-sizing: content-box;
+    border: 30;
+}
