@@ -1,0 +1,21 @@
+body{
+    background-color: chartreuse;
+    text-align: center;
+color: black;
+}
+a:hover{
+color: blueviolet;
+text-decoration: underline;
+}
+
+section{
+    display: inline;
+    margin: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+body{
+    border-top: 2px solid pink;
+} 
